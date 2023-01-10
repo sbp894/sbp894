@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sbp894
 - 👀 I’m interested in ~all things signal processing and machine learning, especially related to neuroscience and speech 
-- 🌱 I’m currently learning sequence models and its application to phoneme classification based on audio and neural data 
+- 🌱 I’m currently comparing the performance and confusion-matrix pattern of our feature-based model (https://www.biorxiv.org/content/10.1101/2022.09.25.509412v1.abstract) with that of modern deep networks in classifying phonemes.
 - 📫 How to reach me ... contact info at satyaparida.com
 
 <!---
