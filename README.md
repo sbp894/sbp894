@@ -4,7 +4,6 @@
 - 📫 How to reach me ... contact info at satyaparida.com
 - Check out my following repos
 -   https://github.com/vatsunlab/Feature_based_auditory_model 
--   https://github.com/sbp894/matlab_path 
 
 <!---
 sbp894/sbp894 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
